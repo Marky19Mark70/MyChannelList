@@ -1,4 +1,4 @@
-  #EXTM3U
+#EXTM3U
 #EXTINF:-1,SKY SPORT MAIN EVENT
 http://p4.giffy.be:8080/live/coke123/coke123/21743.ts
 #EXTINF:-1,SKY SPORTS CRICKET
@@ -1220,5 +1220,5 @@ http://landiptv.live:8080/live/ricardo/ricardo/75118.ts
 http://landiptv.live:8080/live/ricardo/ricardo/75136.ts
 #EXTINF:-1,US: Showtime FHD
 http://landiptv.live:8080/live/ricardo/ricardo/75137.ts
-#EXTINF:-1,US: HBO East HD
-http://landiptv.live:8080/live/ricardo/ricardo/75881.ts 
+#EXTINF:-1,US: HBO East HD  
+http://landiptv.live:8080/live/ricardo/ricardo/75881.ts	
